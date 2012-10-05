@@ -1,0 +1,20 @@
+{
+	"auto_upgrade_last_run": 1349434542,
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Gist",
+		"Git",
+		"Package Control",
+		"PHP-Twig",
+		"Python PEP8 Autoformat",
+		"SFTP",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeLinter",
+		"Symfony2 Snippets",
+		"Twig"
+	]
+}
